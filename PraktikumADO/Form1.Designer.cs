@@ -47,6 +47,7 @@
             this.btnTambah.TabIndex = 29;
             this.btnTambah.Text = "Tambah MK";
             this.btnTambah.UseVisualStyleBackColor = true;
+            this.btnTambah.Click += new System.EventHandler(this.btnTambah_Click);
             // 
             // btnUpdateMK
             // 
